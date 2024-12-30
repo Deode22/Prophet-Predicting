@@ -4,6 +4,8 @@
 
 Este repositorio ofrece una guía práctica sobre Prophet, la biblioteca de Meta para el análisis y predicción de series temporales. Se incluye documentación detallada sobre sus parámetros principales y un caso práctico utilizando datos de NDVI (Índice de Vegetación de Diferencia Normalizada).
 
+Para acceder a los recursos de documentación, consulta los [Apuntes de Prophet](https://github.com/Deode22/Prophet-Predicting/blob/main/Apuntes_Prophet.md) y la [Guía Técnica](https://github.com/Deode22/Prophet-Predicting/blob/main/Guia_Tecnica.md).
+
 ## Fundamentos de Prophet
 
 Prophet se basa en un modelo aditivo que descompone las series temporales en sus componentes fundamentales:
