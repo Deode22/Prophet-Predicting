@@ -6,6 +6,8 @@ Este repositorio ofrece una guía práctica sobre Prophet, la biblioteca de Meta
 
 Para acceder a los recursos de documentación, consulta los [Apuntes de Prophet](https://github.com/Deode22/Prophet-Predicting/blob/main/Apuntes_Prophet.md) y la [Guía Técnica](https://github.com/Deode22/Prophet-Predicting/blob/main/Guia_Tecnica.md).
 
+Para acceder al caso práctico, consulta [Análisis NDVI. Predicciones](https://github.com/Deode22/Prophet-Predicting/blob/main/Predicciones%20de%20NDVI/Analisis.md)
+
 ## Fundamentos de Prophet
 
 Prophet se basa en un modelo aditivo que descompone las series temporales en sus componentes fundamentales:
