@@ -56,8 +56,5 @@ matplotlib
 
 Las contribuciones son bienvenidas.
 
-## Licencia
-MIT
-
 ---
 Puedes abrir el notebook en Google Colab
